@@ -16,17 +16,15 @@ Feel free to explore my repositories and get in touch if you have any questions 
 1. **[PolyglotSound](https://github.com/your-username/polyglot-sound)**
    - Created a website that uses speech recognition to perform translations between Spanish and English in 8 different languages.
    
-3. **[Virtual Cashier Operations](https://github.com/your-username/virtual-cashier-operations)**
-   - Developed a CRUD application using ASP.NET MVC and SQL for managing virtual cashier operations.
-   
-4. **[Client-Server Web Application](https://github.com/your-username/client-server-web-app)**
+2. **[Client-Server Web Application](https://github.com/your-username/client-server-web-app)**
    - Built a client-server application for placing and managing orders with functionalities for both clients and managers, using SQL and Python.
    
-5. **[3D Video Game in Unity](https://github.com/your-username/3d-video-game-unity)**
+3. **[3D Video Game in Unity](https://github.com/your-username/3d-video-game-unity)**
    - Developed a 3D video game using Unity and C#.
-   
-6. **[Telecommunications Laboratory Maintenance](https://github.com/your-username/telecommunications-lab-maintenance)**
-   - Managed and maintained telecommunications equipment to ensure optimal operation of systems.
+  
+7. **[NAS (Network Active Search)](https://github.com/your-username/nas-network-administrator)**
+   - Automated network discovery and topology mapping tool built with Node.js and Python. NAS provides detailed insight into network topology by detecting devices, generating comprehensive diagrams, and offering real-time performance monitoring. It features automated mapping, inventory management, and a web interface for device management.
+
 <!--
 **Gaelite/Gaelite** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 
