@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate student of Software Engineering a
 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas.
 
 ### Projects
-1. **[PolyglotSound](https://github.com/your-username/polyglot-sound)**
+1. **[PolyglotSound](https://github.com/Gaelite/PoliglotSound)**
    - Created a website that uses speech recognition to perform translations between Spanish and English in 8 different languages.
    
 2. **[Client-Server Web Application](https://github.com/your-username/client-server-web-app)**
@@ -22,7 +22,7 @@ Feel free to explore my repositories and get in touch if you have any questions 
 3. **[3D Video Game in Unity](https://github.com/your-username/3d-video-game-unity)**
    - Developed a 3D video game using Unity and C#.
   
-7. **[NAS (Network Active Search)](https://github.com/your-username/nas-network-administrator)**
+7. **[NAS (Network Active Search)](https://github.com/Gaelite/NAS)**
    - Automated network discovery and topology mapping tool built with Node.js and Python. NAS provides detailed insight into network topology by detecting devices, generating comprehensive diagrams, and offering real-time performance monitoring. It features automated mapping, inventory management, and a web interface for device management.
 
 <!--
