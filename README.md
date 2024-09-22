@@ -19,7 +19,7 @@ Feel free to explore my repositories and get in touch if you have any questions 
 2. **[Client-Server Web Application](https://github.com/your-username/client-server-web-app)**
    - Built a client-server application for placing and managing orders with functionalities for both clients and managers, using SQL and Python.
    
-3. **[3D Video Game in Unity](https://github.com/your-username/3d-video-game-unity)**
+3. **[3D Video Game in Unity](https://youtu.be/gHZQw3HqFrs)**
    - Developed a 3D video game using Unity and C#.
   
 7. **[NAS (Network Active Search)](https://github.com/Gaelite/NAS)**
